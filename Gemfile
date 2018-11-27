@@ -4,3 +4,5 @@ source 'https://rubygems.org'
 gem 'github-pages'
 gem 'bourbon'
 gem 'jemoji'
+gem "nokogiri", ">= 1.6.7.rc"
+gem "hitimes", ">= 1.2.3.rc"
