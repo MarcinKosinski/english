@@ -4,9 +4,9 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Essays"
+title: "English Essays"
 description: > # this means to ignore newlines until "email:"
-   Essays inspired by sharping linguistic skills
+   inspired by a hunger of linguistic skills sharpening
 
 email: m.p.kosinski@gmail.com
 #blog logo
