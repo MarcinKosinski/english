@@ -7,7 +7,7 @@ image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
 ---
 # Targeting Clients Improved By Brain Studies About Habits
 
-Recently I had a pleasure to dive into [a chapter from Charles Duhigg book `A Power of Habit`|https://www.nytimes.com/2012/02/19/magazine/shopping-habits.html?_r=1&fbclid=IwAR2g0UM8nlfRv4kE2y8VgZN_ABT2pUYZH27e-pOwgiG_FDbirskjPws81Bo] on a silent Monday evening, with a tea in on hand and, yeah, smart-phone on another. The topic immediately came fascinating to me as explains human behavior and strategies companies have to influence human habits.
+Recently I had a pleasure to dive into [a chapter from Charles Duhigg book `A Power of Habit`](https://www.nytimes.com/2012/02/19/magazine/shopping-habits.html?_r=1&fbclid=IwAR2g0UM8nlfRv4kE2y8VgZN_ABT2pUYZH27e-pOwgiG_FDbirskjPws81Bo) on a silent Monday evening, with a tea in on hand and, yeah, smart-phone on another. The topic immediately came fascinating to me as explains human behavior and strategies companies have to influence human habits.
 
 A wide variety of research has been held to gain insights into the workflow of human mental behavior in cycles we take during repeated activities, called habits. Primary goals of different research leaders are diverse, since they represent extreme motivations: from a scientific research that can help humanity grow, to the companies' studies that are targeted to possess new clients, hence maximize the company's revenue. The essential message is the fact both sides have discovered same routines that rules human brains and in complince with which humanity is aware on how and when change people's habits.
 
