@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Tracking shopping behaviors"
+date:   2018-12-05 11:34:25
+categories: essey
+image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
+---
+# Is market reasearch a mutual benefit for clients and companies?
+
+Today I discovered a yourney from my home, the moment I turn the engine in my car and start to backing up, till entering the building in which I rent a co-working space takes 16 minutes. Not that I was about to check the time difference on purpose, but it's no brainer than listening to a youtube recording that took actually that amount of time. A TEDx talk by Ray Burke ([How stores track your shopping behavior](https://youtu.be/jeQ7C4JLpug)) was a morning Eglish activity I took.
+
+It's not a secret large companies are trying to improve their performance by increasing the customer satisifaction of their services. Retailers took a plunge to perform a variety of unexpected surveys and experiments to diagnose how our customer needs, kept secretly in human's mind, translate into the behavior inside the real shop.
+
+The spree of research not only doesn't worn off but it's actually revolving around in absolutetly bizarre scenarios. Market reserchers tend to create special customzied retail labs, where the immitation of the shop is prepared with the full exposition of shelves and products. What is more, customers are involved in aware studies where they are asked to wear special glasses that tracks their vision during their shopping. Lastly, the security camers are taken into use not only to protect our safety but also to verify how we move, react or speak while performing weekend shopping. The energy put into tracking customer behavior and their emotions during shopping is not subsiding -- just give it a little bit more time untill a vending machine will participate in research as well! 
+
+Given these points, one could say it is very daunting for a customer to be aware that all his actions and movements are tracked. However it is said it's not the case of observing the customer, but the case of improving his satisfaction and customer behavior. All of a suden we realized males have problems with picking proper trousers for t-shirts so now there are special expositions with prototypes on how to put clothes together on a mannequin. Moreover the expositions with clothes that are loosely distributed is the effect of a fact that male feel discouraged the moment they can't put the cloth back away on the shelf. By and large, there are many benefits for companies after perfoming actions triggered by market research since amount of sales is incresing. 
+
+Is it beneficial for customers? On contrary do companies this is the party of the contract that spend their money. However if a customer is not satisified of his order, he/she can always give cloths back or exchange them to other products. The order is not a life-time sentence and clients are treated with the proper care, in my personal opinion. I am glad to know that my daily routines are boosted by the market research, even though it's not rocket science, I still get the feeling that humanity is developing and yet my personal shopping is more satisfactory. Let alone not only sociologists are involved but also the neuroscientist keep participating in mentioned research. It feels good to know that 24/7 a team of specialists is doing their best, so my personal customer experiences are evolving into remarkable memories of proper treatment and great quality of product placements inside shops.
